@@ -1,1 +1,1 @@
-# Tianshan-MicroEDG
+# Tianshan-MicroEDG (Elevational diversity gradients)
