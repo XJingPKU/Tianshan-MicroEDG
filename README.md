@@ -1,6 +1,6 @@
 # Tianshan-MicroEDG (Elevational diversity gradients)
 
-This repository contains data and code for the manuscript entitled "Deeper is not safer: Soil depth intensifies environmental filtering and exposes hidden microbial vulnerability along an elevational gradient"
+This repository contains data and R script for the manuscript entitled "Deeper is not safer: Soil depth intensifies environmental filtering and exposes hidden microbial vulnerability along an elevational gradient"
 
 **Abstract**  
 Aim: A pervasive but rarely tested assumption in soil biogeography is that surface soils faithfully represent the belowground biosphere and that the physical stability of deeper soils buffers subsurface microbial communities against environmental perturbation. We aim to test whether soil depth systematically reshapes microbial biogeographical patterns and their underlying drivers along elevational gradients, establishing a critical baseline for predicting subsurface biodiversity vulnerability under global change.  
